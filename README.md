@@ -2,6 +2,17 @@
 
 A product management web application built with React, Redux Toolkit, and TypeScript. Simulates a shop app with product listing, management, and commenting system.
 
+## 🚀 Live Demo
+
+**[View Live Application](https://viacheslav-saprykin.github.io/react_infrc/)**
+
+Experience the full functionality:
+- Browse and manage products
+- Add, edit, and delete items
+- Sort products by name and count
+- Add comments to products
+- Responsive design for all devices
+
 ## Features
 
 ### Products List View
@@ -70,7 +81,7 @@ A product management web application built with React, Redux Toolkit, and TypeSc
 ### Development
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/viacheslav-saprykin/react_infrc.git
 cd react_infrc
 
 # Install dependencies
@@ -141,6 +152,12 @@ JSON Server provides REST API on `http://localhost:3001`:
 - `npm run preview` - Preview production build
 - `npm run deploy` - Deploy to GitHub Pages
 
+## 🔗 Links
+
+- **[Live Demo](https://viacheslav-saprykin.github.io/react_infrc/)** - Working application
+- **[GitHub Repository](https://github.com/viacheslav-saprykin/react_infrc)** - Source code
+- **[GitHub Pages](https://viacheslav-saprykin.github.io/react_infrc/)** - Deployment
+
 ## Browser Support
 
 - Chrome 90+
@@ -151,4 +168,3 @@ JSON Server provides REST API on `http://localhost:3001`:
 ## License
 
 MIT License - see LICENSE file for details.
-
