@@ -108,26 +108,6 @@ JSON Server provides REST API on `http://localhost:3001`:
 - `POST /comments` - Create comment
 - `DELETE /comments/:id` - Delete comment
 
-## Project Structure
-
-```
-src/
-├── components/           # React components
-│   ├── ProductList.tsx      # Product grid view
-│   ├── ProductView.tsx      # Product detail view
-│   ├── ProductModal.tsx     # Add/edit product form
-│   ├── ConfirmModal.tsx     # Confirmation dialogs
-│   └── SafeImage.tsx        # Image with fallback
-├── store/               # Redux configuration
-│   ├── index.ts            # Store setup
-│   └── productsSlice.ts    # Products state & actions
-├── services/            # Data layer
-│   └── dataProvider.ts     # API + localStorage fallback
-├── types/               # TypeScript definitions
-│   └── index.ts
-└── App.tsx              # Main application component
-```
-
 ## Key Features
 
 ### Data Persistence
