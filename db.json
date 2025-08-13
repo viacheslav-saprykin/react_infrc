@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/200x200",
+      "name": "Apple iPhone 14",
+      "count": 5,
+      "size": {
+        "width": 146.7,
+        "height": 71.5
+      },
+      "weight": "172g",
+      "comments": []
+    },
+    {
+      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-3.jpg",
+      "name": "Apple Iphone 16",
+      "count": 3,
+      "size": {
+        "width": 100,
+        "height": 200
+      },
+      "weight": "205",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/Yo3Zv7d5klsQ32Qo2QPBwGP_BG4_v77WIdldW4Z5ks4Fp_PI3YXsZKn2jRSH1UpKbSEIMLkkwFuW0UQJLgyNBpzFv0XHP5l6Ernl=s6000-w6000-e365-rw-v0-nu",
+      "name": "Google Pixel 9 Pro",
+      "count": 10,
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "weight": "149",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "imageUrl": "https://oneplus-one.com.ua/image/cache/catalog/13op/smart/Oneplus%2013%20Blue%20Ukraine-800x800.jpg",
+      "name": "OnePlus 13",
+      "count": 13,
+      "size": {
+        "width": 145,
+        "height": 167
+      },
+      "weight": "345",
+      "comments": [],
+      "id": 4
+    }
+  ],
+  "comments": []
+}
